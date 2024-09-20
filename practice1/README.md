@@ -1,1 +1,0 @@
-/home/wms/.vscode/extensions/ritwickdey.liveserver-5.7.9/node_modules/read-pkg-up/node_modules/find-up/readme.md
